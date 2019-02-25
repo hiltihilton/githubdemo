@@ -5,7 +5,7 @@ public class Blah
    {
    
       System.out.println("Hello world");
-   
+      System.out.prinltn("Blah");
    }
 
 }
