@@ -1,3 +1,6 @@
 This is an example text file.
 
 Brandon is awesome.
+=======
+
+Here's some new stuff in this file.
